@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Year |
 | --- | --- | --- |
-| Music service analysis | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Music service analysis</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
 | Credit scoring | | 2021 |
 | Real estate market analysis | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors. | 2021 |
 | Mobile tariffs analysis  | Selection between 2 mobile tariffs: which one generates more revenue depending on customers' usage and region. | 2021 |
