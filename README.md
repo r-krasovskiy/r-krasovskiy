@@ -2,10 +2,13 @@ Hi there
 <p>I’m currently learning Python with some application in data science - statistical analysis and machine learning.
   <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies becouse cover most of common problems and solutions especially in different business fields (clusterization, forecasting, modelling etc.) 
 </p>
-<p>My CV is availble <a href="http://www.test123456.ru">here</a>.
-</p>
-
 <p>P.S.: I have also some experience with JS. Apropriate repositories can be found at my GitHub as well.</p>
+
+<br>
+
+> <b>My CV is availble <a href="http://www.test123456.ru">here</a></b>.
+
+<br>
 
 
 
