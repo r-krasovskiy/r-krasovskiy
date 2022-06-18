@@ -6,7 +6,7 @@ Hi there,
 
 <br>
 
-> <b>My CV is availble <a href="http://www.test123456.ru">here</a></b>.
+> <b>My CV is availble <a href="https://drive.google.com/file/d/1wiQ9PNbKDWzqyKveq5FxwT7W68CHhYjs/view?usp=sharing">here</a></b>.
 
 <br>
 
