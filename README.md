@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<b>Other Python projects</b>
+
+| Project | Description | Year |
+| --- | --- | --- |
+| <a href="[https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb](https://github.com/roman-krasowski/telebot/tree/main)">Telegram bot</a> | Online Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
+
+<br>
+<br>
+
 <b>Web and JS projects</b>
 | Project | Description | Year |
 | --- | --- | --- |
