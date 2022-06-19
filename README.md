@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<b>Python and ML projects projects</b>
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -38,3 +38,11 @@ Here are some ideas to get you started:
 | Best suited mobile tariff selection | Machine learning model deployment - prediction the best suited mobile tariff to a customer. | 2022 |
 | Customers' churn | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1. | 2022 |
 | Drill stations deployment |  | in progress |
+
+<br>
+<br>
+
+<b>Web and JS projects</b>
+| Project | Description | Year |
+| --- | --- | --- |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Music service analysis</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
