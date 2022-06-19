@@ -54,4 +54,5 @@ Here are some ideas to get you started:
 <b>Web and JS projects</b>
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Music service analysis</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Static web-page</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2019 |
+| <a href="https://github.com/roman-krasowski/diploma-adaptive-web-design">Static web-page with adaptive design</a> | | 2019 |
