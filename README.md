@@ -42,6 +42,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+<b>Kaggle </b>
+
+| Project | Description | Year |
+| --- | --- | --- |
+| TBD | TBD | 2021 |
+
+<br>
+<br>
+
 <b>Other Python projects</b>
 
 | Project | Description | Year |
