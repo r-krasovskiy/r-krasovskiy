@@ -2,7 +2,7 @@ Hi there,
 <p>I’m currently learning Python with some application in data science - statistical analysis and machine learning.
   <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies becouse cover most of common problems and solutions especially in different business fields (clusterization, forecasting, modelling etc.) 
 </p>
-<p>P.S.: I have also some experience with JS (and of course with HTML5 and CSS). Apropriate repositories can be found below.</p>
+<p>P.S.: I have also some experience with JS (and of course with HTML and CSS). Apropriate repositories can be found below.</p>
 
 <br>
 
