@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 | Mobile tariffs analysis  | Selection between 2 mobile tariffs: which one generates more revenue depending on customers' usage and region. | 2021 |
 | Game market analysis | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets. | 2021 |
 | Best suited mobile tariff selection | Machine learning model deployment - prediction the best suited mobile tariff to a customer. | 2022 |
-| Customers' churn | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1. | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project8-customers-churn.ipynb">Customers' churn</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1. | 2022 |
 | Drill stations deployment |  | in progress |
 
 <br>
