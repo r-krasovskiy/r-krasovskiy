@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors. | 2021 |
 | Mobile tariffs analysis  | Selection between 2 mobile tariffs: which one generates more revenue depending on customers' usage and region. | 2021 |
 | Game market analysis | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets. | 2021 |
-| Best suited mobile tariff selection | Machine learning model deployment - prediction the best suited mobile tariff to a customer. | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer. | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project8-customers-churn.ipynb">Customers' churn</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1. | 2022 |
 | Drill stations deployment |  | in progress |
 
