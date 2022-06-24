@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>Analytical and ML projects</b>
+<b>Analytics and ML</b>
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<b>Web and JS projects</b>
+<b>Web and JS</b>
 | Project | Description | Year |
 | --- | --- | --- |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Static web-page</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2019 |
