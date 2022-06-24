@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<b>Analytical and ML projects projects</b>
+<b>Analytical and ML projects</b>
 
 | Project | Description | Year |
 | --- | --- | --- |
