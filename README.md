@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 | Project | Description | Year |
 | --- | --- | --- |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Music service analysis</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Credit scoring</a> | | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Credit scoring</a> | Detailed data pre-processing (including stemming via `pymystem3`) and revealing dependencies between personal installment loan repayment and landee social characteristics (family status, children, income).| 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors. | 2021 |
 | Mobile tariffs analysis  | Selection between 2 mobile tariffs: which one generates more revenue depending on customers' usage and region. | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets. | 2021 |
