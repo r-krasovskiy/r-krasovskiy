@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 | --- | --- | --- |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Static web-page</a> | | 2019 |
 | <a href="https://github.com/roman-krasowski/diploma-adaptive-web-design">Static web-page with adaptive design</a> | | 2019 |
-| TBD | | 2020 |
+| <a href="#">A simple JS game</a> | | 2020 |
 | TBD | | 2020 |
 | TBD | | 2020 |
 | TBD | | 2020 |
