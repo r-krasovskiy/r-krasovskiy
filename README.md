@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Music service analysis</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Credit scoring</a> | Detailed data pre-processing (including stemming via `pymystem3`) and revealing dependencies between personal installment loan repayment and loaner's social characteristics (family status, children, income).| 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer. | 2022 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Customers' churn</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1. | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Musical service analysis</a> | Data analysis of a musical streaming service users' preferences split by city and genre.<br><br><b>Key points:</b> basic Python with Pandas, functions, cycles, data structures, slices. | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Research of personal loan borrowers</a> | Detailed data pre-processing (including stemming via `pymystem3`) and revealing dependencies between personal installment loan repayment and borrower's social characteristics (family status, children, income).<br><br><b>Key points:</b> data pre-processing, data types duplacates, gaps, groupping, descriptive statistics, lemmatization.<br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors.<br><br><b>Key points:</b><br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region.<br><br><b>Key points:</b></br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets.<br><br><b>Key points:</b><br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer.<br><br><b>Key points:</b><br> | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Modeling of customers' attrition</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1.<br><br><b>Key points:</b><br> | 2022 |
 | Drill stations deployment |  | in progress |
 
 <br>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Year |
 | --- | --- | --- |
-| TBD | TBD | 2021 |
+| TBD | TBD | in progress |
 
 <br>
 <br>
@@ -63,5 +63,11 @@ Here are some ideas to get you started:
 <b>Web and JS</b>
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Static web-page</a> | Data analysis of Yandex.Music (a streaming service) users' preferences split by city and genre. | 2019 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Static web-page</a> | | 2019 |
 | <a href="https://github.com/roman-krasowski/diploma-adaptive-web-design">Static web-page with adaptive design</a> | | 2019 |
+| TBD | | 2020 |
+| TBD | | 2020 |
+| TBD | | 2020 |
+| TBD | | 2020 |
+| TBD | | 2020 |
+| TBD | | 2020 |
