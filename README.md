@@ -1,6 +1,6 @@
 Hi there,
 <p>I’m currently learning Python with some application in data science - statistical analysis and machine learning.
-  <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies becouse cover most of common problems and solutions especially in different business fields (clusterization, forecasting, modelling etc.) 
+  <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies becouse cover most of common problems and solutions especially business-related ones (clusterization, forecasting, modelling etc.) 
 </p>
 <p>P.S.: I have also some experience with JS (and of course with HTML and CSS). Apropriate repositories can be found below.</p>
 
@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<b>Kaggle </b>
+<b>Kaggle pet projects </b>
 
 | Project | Description | Year |
 | --- | --- | --- |
-| TBD | TBD | in progress |
+| <a href="">Stock price prediction model</a> | A simple machine learning stock price prediction model (D1). | in progress |
 
 <br>
 <br>
