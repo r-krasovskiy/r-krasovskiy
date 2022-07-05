@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets.<br><br><b>Key points: </b>matplotlib, seaborn.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer.<br><br><b>Key points: </b>data split (train, valid, test), classification models, desicion tree, random forest, logistic regression, accuracy score.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Modeling of customers' attrition</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1.<br><br><b>Key points: </b>problem of data disbalance, class weighting, upsampling, downsampling, ROC curve, ROC-AUC, F1 score.<br> | 2022 |
-| Drill stations deployment | <br><br><b>Key points: </b>regression models, linear regression, bootstrap, R2.<br> | in progress |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project8-oil-deposits.ipynb">Researching of oil deposits</a> | Machine learning model for choosing the best region for drilling deployment, based on its oil deposits and business profit<br><br><b>Key points: </b>regression models, linear regression, bootstrap, R2.<br> | 2022 |
+| <a href="#">Gold recovery</a> | test<br><br><b>Key points: </b>tbd<br> | 2022 |
 
 <br>
 <br>
