@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Modeling of customers' attrition</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1.<br><br><b>Key points: </b>problem of data disbalance, class weighting, upsampling, downsampling, ROC curve, ROC-AUC, F1 score.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project8-oil-deposits.ipynb">Researching of oil deposits</a> | Machine learning model for choosing the best region for drilling deployment, based on its oil deposits and business profit<br><br><b>Key points: </b>regression models, linear regression, bootstrap, R2.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/progect9-gold-floatation.ipynb">Gold floatation ML model</a> | Prediction of gold recovery effectiveness based on technological process.<br><br><b>Key points: </b>matrix, linear regression.<br> | 2022 |
-| <a href="#">Protecting customer data</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project10-protecting-customer-data.ipynb">Protecting customer data</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
 | <a href="#">Car cost prediction</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
 | <a href="#">Taxi</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
 | <a href="#">Twitter sentiment analysis</a> | tbd <br><br><b>Key points: </b>natural language processing<br> | 2022 |
