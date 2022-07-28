@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/progect9-gold-floatation.ipynb">Gold floatation ML model</a> | Prediction of gold recovery effectiveness based on technological process.<br><br><b>Key points: </b>GridSearchCV, RandomizedSearchCV, KNNImputer, pipeline.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project10-protecting-customer-data.ipynb">Protecting customer data</a> | tbd <br><br><b>Key points: </b>matrix, linear regression.<br> | 2022 |
 | <a href="#">Car cost prediction</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
-| <a href="#">Taxi</a> | tbd <br><br><b>Key points: </b>tbd<br> | 2022 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project12-taxi-prediction.ipynb">Taxi prediction</a> | Prediction of number of taxi orders within next hour, based on short trends in time series, day of week and hourly seasonality. Models are tested by RMSE.<br><br><b>Key points: </b>TimeSeriesSplit, seasonal_decompose, resample, rolling_mean.<br> | 2022 |
 | <a href="#">Twitter sentiment analysis</a> | tbd <br><br><b>Key points: </b>natural language processing<br> | 2022 |
 
 
