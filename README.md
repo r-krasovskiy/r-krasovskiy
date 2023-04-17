@@ -2,11 +2,10 @@ Hi there,
 <p>I’m currently learning Python with some application in data science - statistical analysis and machine learning.
   <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies because cover most of common problems and solutions especially business-related ones (clusterization, forecasting, modelling etc.) 
 </p>
-<p>P.S.: I have also some experience with JS (and of course with HTML and CSS). Apropriate repositories can be found below.</p>
 
 <br>
 
-> <b>My CV is availble <a href="https://drive.google.com/file/d/1wiQ9PNbKDWzqyKveq5FxwT7W68CHhYjs/view?usp=sharing">here</a></b>.
+> <b>My LinkedIn profile is availble <a href="https://www.linkedin.com/in/r-krasovskiy">here</a></b>.
 
 <br>
 
@@ -65,15 +64,3 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-<b>Web and JS</b>
-| Project | Description | Year |
-| --- | --- | --- |
-| <a href="https://codepen.io/romano-bravo/pen/mddyqRO">Static web-page</a> | | 2019 |
-| <a href="https://landing-sample-sport.vercel.app">Static web-page with adaptive design</a> | | 2019 |
-| <a href="#">A simple JS game</a> | | 2020 |
-| TBD | | 2020 |
-| TBD | | 2020 |
-| TBD | | 2020 |
-| TBD | | 2020 |
-| TBD | | 2020 |
