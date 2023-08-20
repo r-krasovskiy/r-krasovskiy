@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 | Project | Description | Year |
 | --- | --- | --- |
+| <a href="">Titanic survivals</a> | A classical assignment from Kaggle competition | 2023 |
 | <a href="">Stock price prediction model</a> | A simple machine learning stock price prediction model (D1). | in progress |
 
 <br>
