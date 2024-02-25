@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/telebot/tree/main">Telegram bot</a> | Online Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
-| <a href="#</a> | Telegram bot connected to API. | 2023 |
-| <a href="#"</a> | Personal blog with full functionality (registration, pass reset, posts publication/edition/deletion, comments publication/edition/delition, imgs posting etc. | 2023 |
+| <a href="https://github.com/roman-krasowski/telebot/tree/main">Telegram todo bot</a> | Online Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
+| <a href="#>API bot</a> | Telegram bot connected to API. | 2023 |
+| <a href="#">Blog</a> | A blog with full functionality (registration, pass reset, searching, posts publication/edition/deletion, comments publication/edition/delition, imgs posting etc.) | 2023 |
 
 <br>
 <br>
