@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 | Project | Description | Year |
 | --- | --- | --- |
 | <a href="https://github.com/roman-krasowski/telebot/tree/main">Telegram todo bot</a> | Online Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
-| <a href="#">API bot</a> | Telegram bot connected to API. | 2023 |
+| <a href="#">Pet pic bot</a> | Telegram bot sends a nice random picture of cat or dog to the user via chat message. | 2023 |
+| <a href="https://github.com/r-krasovskiy/practicum_bot">API bot</a> | Telegram bot checks status of homework at Yandex.Practicum (Russian e-learning company) via API each 10 minutes and provedes its status to the user as Telegram message. | 2023 |
 | <a href="#">Blog</a> | A blog with full functionality (registration, pass reset, searching, posts publication/edition/deletion, comments publication/edition/delition, imgs posting etc.) | 2023 |
 | <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | This is a Telegram bot (on python-telegram-bot library) which helps to learn spanish words. | 2024 |
 
