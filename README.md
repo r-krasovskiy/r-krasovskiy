@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img src="https://www.codewars.com/users/r-krasovskiy/badges/large" alt="codewars badge large"></p>
+<br>
+<br>
 <b>Analytics and ML</b>
 
 | Project | Description | Year |
