@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img src="https://www.codewars.com/users/r-krasovskiy/badges/large" alt="codewars badge large"></p>
+<p><img src="https://www.codewars.com/users/r-krasovskiy/badges/small" alt="codewars badge large"></p>
 <br>
 <br>
 <b>Analytics and ML</b>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region.<br><br><b>Key points: </b>scipy, hypotesis, t-test, p-value.</br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets.<br><br><b>Key points: </b>matplotlib, seaborn.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer.<br><br><b>Key points: </b>data split (train, valid, test), classification models, desicion tree, random forest, logistic regression, accuracy score.<br> | 2022 |
+
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Modeling of customers' attrition</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1.<br><br><b>Key points: </b>problem of data disbalance, class weighting, upsampling, downsampling, ROC curve, ROC-AUC, F1 score.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project8-oil-deposits.ipynb">Researching of oil deposits</a> | Machine learning model for choosing the best region for drilling deployment, based on its oil deposits and business profit<br><br><b>Key points: </b>regression models, linear regression, bootstrap, R2.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/progect9-gold-floatation.ipynb">Gold floatation ML model</a> | Prediction of gold recovery effectiveness based on technological process.<br><br><b>Key points: </b>GridSearchCV, RandomizedSearchCV, KNNImputer, pipeline.<br> | 2022 |
