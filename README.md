@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Musical service analysis</a> | Data analysis of a musical streaming service users' preferences split by city and genre.<br><br><b>Key points:</b> basic Python with Pandas, function, cycle, data structures, slice. | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Research of personal loan borrowers</a> | Detailed data pre-processing (including stemming via `pymystem3`) and revealing dependencies between personal installment loan repayment and borrower's social characteristics (family status, children, income).<br><br><b>Key points:</b> data pre-processing, data types duplacates, gaps, groupping, descriptive statistics, lemmatization.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors.<br><br><b>Key points: </b>matplotlib, plot, box plot, scatter plot, query.<br> | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region.<br><br><b>Key points: </b>scipy, hypotesis, t-test, p-value.</br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region.<br><br><b>
+Key points: </b>scipy, hypotesis, t-test, p-value.</br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets.<br><br><b>Key points: </b>matplotlib, seaborn.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer.<br><br><b>Key points: </b>data split (train, valid, test), classification models, desicion tree, random forest, logistic regression, accuracy score.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project7-customers-churn.ipynb">Modeling of customers' attrition</a> | Supervised learning ML models (decision tree, random forest and logistic regression) of cunsimer business attrition (weighting target classes, upsampling and downsampling) reaching sutisfied F1.<br><br><b>Key points: </b>problem of data disbalance, class weighting, upsampling, downsampling, ROC curve, ROC-AUC, F1 score.<br> | 2022 |
@@ -61,15 +62,16 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<b>Other Python projects</b>
+<b>Other projects</b>
 
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/telebot/tree/main">Todo bot</a> | Online Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
-| <a href="https://github.com/r-krasovskiy/pet-pic-bot/tree/master">Pet pic bot</a> | Telegram bot sends a nice random picture of cat or dog to the user via chat message. | 2023 |
-| <a href="https://github.com/r-krasovskiy/practicum_bot">API bot</a> | Telegram bot checks status of homework at Yandex.Practicum (Russian e-learning company) via API each 10 minutes and provedes its status to the user as Telegram message. | 2023 |
+| <a href="https://github.com/roman-krasowski/telebot/tree/main">Todo bot</a> | A Telegram bot helps to create simple tasks and review user's shedule. | 2021 |
+| <a href="https://github.com/r-krasovskiy/pet-pic-bot/tree/master">Pet pic bot</a> | A Telegram bot sends a nice random picture of cat or dog to the user via chat message. | 2023 |
+| <a href="https://github.com/r-krasovskiy/practicum_bot">API bot</a> | A Telegram bot checks status of homework at Yandex.Practicum (Russian e-learning company) via API each 10 minutes and provedes its status to the user as Telegram message. | 2023 |
 | <a href="#">Blog</a> | A blog with full functionality (registration, pass reset, searching, posts publication/edition/deletion, comments publication/edition/delition, imgs posting etc.) | 2023 |
-| <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | This is a Telegram bot (on python-telegram-bot library) which helps to learn spanish words. | 2024 |
+| <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | A Telegram bot helps to learn spanish words. | 2024 |
+| <a href="https://github.com/r-krasovskiy/foodgram">Spanish bot</a> | A web service for cooking recipes pblication. | 2025 |
 
 <br>
 <br>
