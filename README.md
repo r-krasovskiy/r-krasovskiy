@@ -71,7 +71,7 @@ Key points: </b>scipy, hypotesis, t-test, p-value.</br> | 2021 |
 | <a href="https://github.com/r-krasovskiy/practicum_bot">API bot</a> | A Telegram bot checks status of homework at Yandex.Practicum (Russian e-learning company) via API each 10 minutes and provedes its status to the user as Telegram message. | 2023 |
 | <a href="#">Blog</a> | A blog with full functionality (registration, pass reset, searching, posts publication/edition/deletion, comments publication/edition/delition, imgs posting etc.) | 2023 |
 | <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | A Telegram bot helps to learn spanish words. | 2024 |
-| <a href="https://github.com/r-krasovskiy/foodgram">Spanish bot</a> | A web service for cooking recipes pblication. | 2025 |
+| <a href="https://github.com/r-krasovskiy/foodgram">Foodgram</a> | A web service for cooking recipes pblication. | 2025 |
 
 <br>
 <br>
