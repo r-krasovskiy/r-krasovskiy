@@ -4,32 +4,17 @@ Hi there,
 </p>
 
 <br>
-
-> <b>My LinkedIn profile is availble <a href="https://www.linkedin.com/in/r-krasovskiy">here</a></b>.
-
-<br>
-
-
-
 <!--
-**roman-krasowski/roman-krasowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Коммиты](https://badges.pufler.dev/commits/monthly/r-krasovskiy)
 -->
+
 <p><img src="https://www.codewars.com/users/r-krasovskiy/badges/small" alt="codewars badge large"></p>
+
 <br>
-<br>
-<b>Analytics and ML</b>
+
+---
+
+## 📊 Analytics and ML Projects
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -48,9 +33,8 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project13-text-analysis.ipynb">Classification of comments</a> | NLP classification model with preliminary text stemming and vectorization. The model has to classify a user's comment as toxic or non-toxic based on sentiment analysis.<br><br><b>Key points: </b> WordNetLemmatizer, TfidfVectorizer, SGDClassifier.<br> | 2022 |
 
 <br>
-<br>
 
-<b>Finance and Management </b>
+## 💼 Finance and Management
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -59,11 +43,9 @@ Here are some ideas to get you started:
 | <a href="#">A/B testing</a> | TBD | TBD |
 | <a href="#">Critical Path Method Optimization</a> | TBD | TBD |
 
-
-<br>
 <br>
 
-<b>Kaggle projects </b>
+## 🏆 Kaggle
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -71,9 +53,8 @@ Here are some ideas to get you started:
 | <a href="">Stock price prediction model</a> | A simple machine learning stock price prediction model (D1). | 2024 |
 
 <br>
-<br>
 
-<b>Other projects</b>
+## 📂 Other Projects
 
 | Project | Description | Year |
 | --- | --- | --- |
@@ -84,5 +65,10 @@ Here are some ideas to get you started:
 | <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | A Telegram bot helps to learn spanish words. | 2024 |
 | <a href="https://github.com/r-krasovskiy/foodgram">Foodgram</a> | A web service for cooking recipes pblication. | 2025 |
 
+---
+
 <br>
-<br>
+
+## 📬 How to reach me:
+- LinkedIn: [Roman Krasovskiy](https://www.linkedin.com/in/r-krasovskiy/)
+
