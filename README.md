@@ -47,6 +47,15 @@ Here are some ideas to get you started:
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project12-taxi-prediction.ipynb">Taxi prediction</a> | Prediction of number of taxi orders within next hour, based on short trends in time series, day of week and hourly seasonality. Models are tested by RMSE.<br><br><b>Key points: </b>TimeSeriesSplit, seasonal_decompose, resample, rolling_mean.<br> | 2022 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/Project13-text-analysis.ipynb">Classification of comments</a> | NLP classification model with preliminary text stemming and vectorization. The model has to classify a user's comment as toxic or non-toxic based on sentiment analysis.<br><br><b>Key points: </b> WordNetLemmatizer, TfidfVectorizer, SGDClassifier.<br> | 2022 |
 
+<br>
+<br>
+
+<b>Finance and Management </b>
+
+| Project | Description | Year |
+| --- | --- | --- |
+| <a href="https://github.com/r-krasovskiy/finance_and_management/blob/main/monte_carlo.ipynb">Monte Carlo stock price simulation</a> | A Monte Carlo simulation for stock price trajectories using Geometric Brownian Motion. It demonstrates how to model potential future stock prices based on historical volatility and expected returns, providing a visual representation of possible price paths. | 2025 |
+
 
 <br>
 <br>
