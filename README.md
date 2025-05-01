@@ -1,6 +1,7 @@
-Hi there,
-<p>I’m currently learning Python with some application in data science - statistical analysis and machine learning.
-  <br>My accomplished and current projects are listed in the table below with links at appropriate datasets and scripts. I assume they will be pretty useful to other newbies because cover most of common problems and solutions especially business-related ones (clusterization, forecasting, modelling etc.) 
+<p>Welcome,
+
+I use Python primarily as a tool for solving applied problems in data analysis and business contexts — including statistical analysis, machine learning, and modeling.
+This repository showcases a range of completed and ongoing projects. Each includes relevant datasets and code, covering common use cases such as clustering, time series forecasting, and predictive modeling. I focus on practical, data-driven solutions that may be useful for others working in similar areas.
 </p>
 
 <br>
@@ -14,13 +15,13 @@ Hi there,
 
 ---
 
-## 📊 Analytics and ML Projects
+## 📊 Analytics and ML
 
 | Project | Description | Year |
 | --- | --- | --- |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Musical service analysis</a> | Data analysis of a musical streaming service users' preferences split by city and genre.<br><br><b>Key points:</b> basic Python with Pandas, function, cycle, data structures, slice. | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Research of personal loan borrowers</a> | Detailed data pre-processing (including stemming via `pymystem3`) and revealing dependencies between personal installment loan repayment and borrower's social characteristics (family status, children, income).<br><br><b>Key points:</b> data pre-processing, data types duplicates, gaps, grouping, descriptive statistics, lemmatization.<br> | 2021 |
-| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real estate market analysis</a> | Modeling of real estate pricing in St.Petersburg depending of location, area, floor and other factors.<br><br><b>Key points: </b>matplotlib, plot, box plot, scatter plot, query.<br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project1-yandex-music.ipynb">Musical Preferences Analysis</a> | Analysis of user behavior on a music streaming service, with a focus on comparing musical preferences across cities. The analysis identifies which genres are most popular in different locations and how listening patterns vary throughout the week. The project simulates a real-world data analysis task involving data cleaning, filtering, grouping, and aggregation..<br><br><b>Key points:</b> Python, Pandas, functions, loops, data structures, slicing. | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project2-pil-research.ipynb">Loan Default Prediction</a> | Investigation of the reliability of borrowers, focusing on how their personal characteristics, such as family status, number of children, and income, influence their ability to repay loans on time. The dataset contains various attributes of bank clients, such as demographic information and loan payment history. The goal is to determine whether factors like marital status, number of children, and income type are significant predictors of loan default.<br><br><b>Key points:</b> data pre-processing, descriptive statistics, lemmatization.<br> | 2021 |
+| <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project3-real-estate.ipynb">Real Estate Market Analysis</a> |This project analyzes a dataset containing real estate listings for apartments in St. Petersburg and the Leningrad region, focusing on identifying key factors influencing property prices. The primary objective is to explore and preprocess the dataset, clean missing or anomalous values, and ultimately build a model to predict apartment prices based on various features<br><br><b>Key points: </b>matplotlib, plot, box plot, scatter plot, query.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project4-mobile-tariffs.ipynb">Analysis of mobile tariffs</a> | Data analysis with selection between 2 mobile tariffs: which one generates more revenue depending on customers' behavior and region.<br><br><b>Key points: </b>scipy, hypothesis, t-test, p-value.</br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project5-game-market-analysis.ipynb">Game market analysis</a> | Analysis of game sales within 1980-2016 with best suited genres and platforms for NA, EU and JP markets.<br><br><b>Key points: </b>matplotlib, seaborn.<br> | 2021 |
 | <a href="https://github.com/roman-krasowski/yandex-ds/blob/master/project6-mobile-tariffs-prediction.ipynb">Best suited mobile tariff</a> | Machine learning model deployment - prediction the best suited mobile tariff to a customer.<br><br><b>Key points: </b>data split (train, valid, test), classification models, decision tree, random forest, logistic regression, accuracy score.<br> | 2022 |
@@ -62,8 +63,8 @@ Hi there,
 | <a href="https://github.com/r-krasovskiy/pet-pic-bot/tree/master">Pet pic bot</a> | A Telegram bot sends a nice random picture of cat or dog to the user via chat message. | 2023 |
 | <a href="https://github.com/r-krasovskiy/practicum_bot">API bot</a> | A Telegram bot checks status of homework at Yandex.Practicum (Russian e-learning company) via API each 10 minutes and provedes its status to the user as Telegram message. | 2023 |
 | <a href="#">Blog</a> | A blog with full functionality (registration, pass reset, searching, posts publication/edition/deletion, comments publication/edition/deletion, images posting etc.) | 2023 |
-| <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | A Telegram bot helps to learn spanish words. | 2024 |
-| <a href="https://github.com/r-krasovskiy/foodgram">Foodgram</a> | A web service for cooking recipes pblication. | 2025 |
+| <a href="https://github.com/r-krasovskiy/spanish-bot">Spanish bot</a> | A Telegram bot helps to learn Spanish words. | 2024 |
+| <a href="https://github.com/r-krasovskiy/foodgram">Foodgram</a> | A web service for cooking recipes publication. | 2025 |
 
 ---
 
