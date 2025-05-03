@@ -42,7 +42,7 @@ This repository showcases a range of completed and ongoing projects. Each includ
 | <a href="https://github.com/r-krasovskiy/finance_and_management/blob/main/monte_carlo.ipynb">Monte Carlo stock price simulation</a> | A Monte Carlo simulation for stock price trajectories using Geometric Brownian Motion. It demonstrates how to model potential future stock prices based on historical volatility and expected returns, providing a visual representation of possible price paths. | 2025 |
 | <a href="#">Capacity Planning Optimization</a> | Capacity planning is a critical aspect of operations management that involves determining the optimal capacity required to meet future demand while minimizing costs and maximizing efficiency. It ensures that resources, such as machinery, personnel, and production lines, are utilized effectively to achieve organizational goals. | TBD |
 | <a href="#">A/B testing</a> | TBD | TBD |
-| <a href="#">Critical Path Method Optimization</a> | TBD | TBD |
+| <a href="https://github.com/r-krasovskiy/cpm">Critical Path Method Optimization</a> | A Python tool that calculates the critical path for project schedules using the Critical Path Method (CPM) - one of the most popular tool in project management. It processes task dependencies, computes early/late start/finish times, and visualizes the project network to identify tasks that directly impact the project timeline. | 2025 |
 
 <br>
 
